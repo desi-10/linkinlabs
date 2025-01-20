@@ -58,7 +58,7 @@ const PlatformFeatures = () => {
           </div>
         </div>
 
-        <Link href="/features">
+        <Link href="/benefits">
           <div className="flex justify-center mt-20">
             <Button variant="outline" className="p-6">
               View all features

@@ -4,8 +4,8 @@ import React from "react";
 const Dashboard = () => {
   return (
     <section>
-      <div className="p-5 rounded-lg shadow-lg pt-7">
-        <h1>Your Dashboard</h1>
+      <div className="pt-7">
+        <h1 className="font-semibold text-lg">Your Dashboard</h1>
         <hr className="my-5" />
 
         <div className="grid grid-cols-4 gap-5">
